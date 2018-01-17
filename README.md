@@ -10,8 +10,7 @@ In this lesson, you will be given a quick overview of front-end UI frameworks, a
     Set up a project with Bootstrap support
     Configure a web project to use Bootstrap
     Become familiar with the basic features of Bootstrap
-    
-    
+
 1.2 Objectives and Outcomes
 
 In this lesson, you will be given an overview of responsive web design and an introduction to the Bootstrap grid system. The exercises will concentrate on enhancing your web project using the Bootstrap grid in order to make it responsive. At the end of this lesson, you will be able to:
@@ -22,7 +21,7 @@ In this lesson, you will be given an overview of responsive web design and an in
 
 Part 1
  1.2.1 Exercise Responsive Design and Bootstrap Grid System
-    
+
     Objectives and Outcomes
 
         This exercise introduces you to responsive design and Bootstrap support for mobile first responsive design through the use of the grid system. At the end of this exercise, you will be able to:
