@@ -39,3 +39,30 @@ Part 2
     Reordering Content using flex order
     Customize the CSS classes through your own additions in a separate CSS file
     Centering the content both vertically and horizontally within a row
+
+Assignment Week 1 in-person
+    In this assignment you will add a second page, aboutus.html, to your website. You will make use of the Bootstrap skills learnt in this module to prepare this web page for integration into the website.
+
+Objectives and Outcomes
+
+In this assignment, you will continue to work with the website that you have been developing in the exercises. You will add the About Us web page to the website. To get you started, you are provided with a partially formatted aboutus.html.zip file given above that you need to download, unzip and move the aboutus.html to the conFusion folder that contains your website. At the end of this assignment, you should have completed the following tasks:
+
+    Updated the page to make use of Bootstrap classes and Bootstrap grid
+    Formatted the contents of the web page using the container, row and column classes
+    Use the responsive utilities (hidden-* classes) to enable hiding of the detailed descriptions in the extra small screen size devices
+
+Task 1
+
+In this task you will be updating the aboutus.html page to make use of the Bootstrap classes and components:
+
+    Update the page to make use of the Bootstrap CSS classes.
+    Update the page to also use your custom styles defined in your styles.css file, and
+    Update the page to make use of all the Bootstrap JS components.
+
+Task 2
+
+In this task you will be adding appropriate formatting to the web page contents using container, row and column classes using the Bootstrap grid so that the web page is formatted to look like the figure given below.
+
+    The "About Us" title should stretch the entire width of the row.
+    The "Our History" part should occupy only half the width of the row for small to extra large screens, leaving space on the right side for more content to be added later. The content should be stacked for extra small screens.
+    The "Corporate Leadership" section should stretch the entire width of the row.
