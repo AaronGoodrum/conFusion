@@ -20,7 +20,8 @@ In this lesson, you will be given an overview of responsive web design and an in
     Use the Bootstrap grid system to design responsive websites
     Add your own custom CSS classes to a Bootstrap based web project
 
- 1.2.1 Exercise (Instructions): Responsive Design and Bootstrap Grid System Part 1
+Part 1
+ 1.2.1 Exercise Responsive Design and Bootstrap Grid System
     
     Objectives and Outcomes
 
@@ -28,3 +29,14 @@ In this lesson, you will be given an overview of responsive web design and an in
 
         Create responsive websites using the Bootstrap grid system
         Reordering content using push, pull and offset classes
+
+Part 2
+1.2.2 Exercise Responsive Design and Bootstrap Grid System
+
+    Objectives and Outcomes
+
+    This exercise continues the examination of responsive design and Bootstrap support for mobile first responsive design through the use of the grid system. We also learn how to customize some of the Bootstrap classes through defining our own modifications in a separate CSS file. At the end of this exercise, you will be able to:
+
+    Reordering Content using flex order
+    Customize the CSS classes through your own additions in a separate CSS file
+    Centering the content both vertically and horizontally within a row
