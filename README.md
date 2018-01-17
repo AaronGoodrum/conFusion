@@ -2,6 +2,7 @@
 NuCamp
 git example-
 git push  <REMOTENAME> <BRANCHNAME> 
+git push origin master
 
 Week 1
 1. Objectives and Outcomes
