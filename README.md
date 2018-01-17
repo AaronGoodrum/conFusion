@@ -1,5 +1,7 @@
 # conFusion
 NuCamp
+git example-
+git push  <REMOTENAME> <BRANCHNAME> 
 
 Week 1
 1. Objectives and Outcomes
