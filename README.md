@@ -69,3 +69,8 @@ In this task you will be adding appropriate formatting to the web page contents 
     The "About Us" title should stretch the entire width of the row.
     The "Our History" part should occupy only half the width of the row for small to extra large screens, leaving space on the right side for more content to be added later. The content should be stacked for extra small screens.
     The "Corporate Leadership" section should stretch the entire width of the row.
+
+Task 3
+
+In this task you will use some responsive utilities provided by Bootstrap to hide some of the content only for extra small screens. You will make use of the hidden-* CSS classes provided by Bootstrap
+    read the documentation bootstrap to learn how to apply the hidden-* classes
