@@ -33,8 +33,15 @@ body{
   padding: 20px 0px 20px 0px;
 }
 
-.address{
+address{
   font-size:80%;
   margin:0px;
   color:#0f0f0f;
+}
+
+.card-header{
+  background-color: #22ec22;
+}
+.card-body{
+  margin: 15px 0px;
 }
