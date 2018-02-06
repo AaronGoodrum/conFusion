@@ -73,7 +73,7 @@ address{
   padding: 10px;
 }
 .carousel {
-  background:rgb(223, 217, 235);
+  background:rgb(0, 0, 0);
 }
 .carousel-item {
 height: 300px;
@@ -83,4 +83,15 @@ height: 300px;
   top: 0;
   left: 0;
   min-height: 300px;
+}
+.carousel-caption {
+  position: relative;
+  left: 0%;
+  right: 0%;
+  bottom: 0px;
+  z-index: 10;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: rgb(253, 253, 253);
+  text-shadow: none;
 }
