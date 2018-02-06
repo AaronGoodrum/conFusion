@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="css/bootstrap-social.css">
     <!-- Style CSS -->
     <link rel="stylesheet" href="css/styles.css">
+
 </head>
 
 <body>
@@ -50,7 +51,14 @@
                     <img src="img/logo.png" class="img-fluid">
                 </div>
                     <div class="col align-self-center">
-                        <a href="#reserveTable" role="button" class="btn btn-sm btn-warning btn-block">Reserve Table</a>
+                        <a href="#reserveTable" 
+                            role="button" 
+                            class="btn btn-sm btn-warning btn-block" 
+                            data-toggle="tooltip" 
+                            data-html="true"  
+                            title="Or Call us at  <br><strong>+852 12345678</strong>">
+                            Reserve Table
+                        </a>
                     </div>
                 
             </div>
@@ -223,6 +231,7 @@
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script src="node_modules/tether/dist/js/tether.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="scripts/app.js"></script>
 
 </body>
 
