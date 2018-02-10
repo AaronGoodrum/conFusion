@@ -95,7 +95,7 @@ height: 300px;
   color: rgb(253, 253, 253);
   text-shadow: none;
 }
-#carouselButtons {
+#carousel-button {
   right:0px;
   position: absolute;
   bottom: 0px;
