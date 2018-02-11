@@ -30,6 +30,11 @@ $carousel-item-height: 300px;
   @include zero-margin(70px,30px);
   background: $background-light ;
   color:floralwhite;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100&1+0,0+100 */
+  background: -moz-linear-gradient(top, rgba(30,87,153,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#007db9e8',GradientType=0 ); /* IE6-9 */
 }
 
 address{
@@ -55,6 +60,7 @@ body{
 
 .carousel {
   background: $background-dark;
+  background:rgb(78, 133, 155);
 
   .carousel-item {
       height: $carousel-item-height;
@@ -70,4 +76,15 @@ body{
   right:0px;
   position: absolute;
   bottom: 0px;
+}
+.carousel-caption {
+  position: relative;
+  left: 0%;
+  right: 0%;
+  bottom: 0px;
+  z-index: 10;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: rgb(253, 253, 253);
+  text-shadow: none;
 }
