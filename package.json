@@ -20,13 +20,16 @@
   "license": "ISC",
   "devDependencies": {
     "cssmin": "^0.4.3",
+    "grunt": "^1.0.2",
+    "grunt-sass": "^2.1.0",
     "htmlmin": "0.0.7",
     "lite-server": "^2.2.2",
     "node-sass": "^4.7.2",
     "onchange": "^3.3.0",
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2",
-    "uglifyjs": "^2.4.11",
+    "time-grunt": "^1.4.0",
+    "uglify-js": "^3.3.10",
     "usemin-cli": "^0.5.1"
   },
   "dependencies": {
