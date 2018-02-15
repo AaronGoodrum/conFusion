@@ -11,5 +11,8 @@ $(document).ready(function(){
         $("#carousel-button").children("span").removeClass('fa-play');
         $("#carousel-button").children("span").addClass('fa-pause'); 
     }
-});
+  });
+  $('#reserveModal').on('shown.bs.modal', function () {
+    $('#myInput').focus()
+  })
 });
