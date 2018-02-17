@@ -81,3 +81,15 @@ height: 300px;
   padding-bottom: 0px;
   color: #fdfdfd;
   text-shadow: none; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+.modal-footer {
+  background-color: #9575CD; }

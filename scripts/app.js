@@ -1,4 +1,6 @@
+
 $(document).ready(function(){
+
   $("#carousel-button").click(function(){
     if ($("#carousel-button").children("span").hasClass('fa-pause')) 
         {
@@ -12,7 +14,12 @@ $(document).ready(function(){
         $("#carousel-button").children("span").addClass('fa-pause'); 
     }
   });
-  $('#reserveModal').on('shown.bs.modal', function () {
-    $('#myInput').focus()
-  })
+//   Week4 Assignment Task2
+  $('#reserve-button').click(function (){
+    $('#reserveModal').modal('toggle');
+  });
+//   Week4 Assignment Task3
+  $('#login-Btn').click(function (){
+    $('#loginModal').modal('toggle');
+  });
 });
