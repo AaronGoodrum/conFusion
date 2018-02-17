@@ -1,4 +1,6 @@
+
 $(document).ready(function(){
+
   $("#carousel-button").click(function(){
     if ($("#carousel-button").children("span").hasClass('fa-pause')) 
         {
